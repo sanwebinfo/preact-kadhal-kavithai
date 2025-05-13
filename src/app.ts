@@ -1,7 +1,7 @@
 import quotes from '.././src/data/quotes.json';
 
 interface Quote {
-  id: string;
+  id: number;
   content: string;
 }
 
